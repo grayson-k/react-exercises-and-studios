@@ -1,3 +1,5 @@
+import classes from './BookList.module.css';
+
 export default function BookList() {
    let pageTitle = "Book List";
    let book1 = "https://keledicionesb2c.vtexassets.com/arquivos/ids/253048/9780061956270.jpg?v=638035125112600000";
